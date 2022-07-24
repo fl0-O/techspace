@@ -1,0 +1,16 @@
+baseURL : 'http://example.org/'
+languageCode : 'en-us'
+title : 'fl0-O space'
+theme : 'cupper-hugo-theme'
+
+menu:
+  nav:
+    - name: Home
+      url: /
+      weight: 1
+    - name: Articles
+      url: /post/
+      weight: 2
+    - name: Knowledge Base
+      url: /kb/
+      weight: 3
